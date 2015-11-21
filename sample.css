@@ -1,0 +1,69 @@
+body {
+  background: linear-gradient(to bottom,  #b3c4ff 1%,#e5ebff 50%);
+}
+#para1 {
+  color: #9900FF;
+  font-size: 50px;
+}
+#total {
+  background: #001766;
+  display: table;
+  height: 150px;
+}
+.icons {
+  color: white;
+  cursor: pointer;
+  display: inline;
+  float: left;
+  margin: 0px auto;
+  padding: 20px;
+  transition: 1s ease-in-out;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+.text {
+  color: white;
+  cursor: pointer;
+  display: none;
+  float: left;
+  padding: 1px;
+  transition: 1s;
+}
+a {
+  background: #001766;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+#home1 {
+  display: none;
+}
+a:hover {
+  background: white;
+  color: blue;
+  display: block;
+}
+#profile1 {
+  display: none;
+}
+#tabledDiv {
+  display: none;
+}
+.table {
+  border: 1px solid white;
+  display: none;
+}
+#people1 {
+  display: none;
+}
+#contact1 {
+  display: none;
+}
+#mail1 {
+  display: none;
+}
+#adress1 {
+  display: none;
+}
